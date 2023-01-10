@@ -1,9 +1,21 @@
 {
-  "mod_elements": [],
+  "mod_elements": [
+    {
+      "name": "Monny",
+      "type": "achievement",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "monny"
+    }
+  ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
-    "en_us": {}
+    "en_us": {
+      "advancements.monny.descr": "获得第一个绿宝石",
+      "advancements.monny.title": "钱，钱，钱！！！"
+    }
   },
   "foldersRoot": {
     "name": "~",
