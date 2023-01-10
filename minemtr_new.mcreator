@@ -7,6 +7,14 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "monny"
+    },
+    {
+      "name": "Ironsteps",
+      "type": "block",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironsteps"
     }
   ],
   "variable_elements": [],
@@ -14,6 +22,7 @@
   "language_map": {
     "en_us": {
       "advancements.monny.descr": "获得第一个绿宝石",
+      "block.minemtr_new.ironsteps": "Iron.steps",
       "advancements.monny.title": "钱，钱，钱！！！"
     }
   },

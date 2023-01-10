@@ -1,0 +1,9 @@
+{
+  "parent": "block/slab",
+  "textures": {
+    "particle": "minemtr_new:blocks/iron_block",
+    "bottom": "minemtr_new:blocks/iron_block",
+    "top": "minemtr_new:blocks/iron_block",
+    "side": "minemtr_new:blocks/iron_block"
+  }
+}

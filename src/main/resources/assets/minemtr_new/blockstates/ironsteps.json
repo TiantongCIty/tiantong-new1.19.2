@@ -1,0 +1,13 @@
+{
+  "variants": {
+    "type=bottom": {
+      "model": "minemtr_new:block/ironsteps"
+    },
+    "type=top": {
+      "model": "minemtr_new:block/ironsteps_top"
+    },
+    "type=double": {
+      "model": "minemtr_new:block/ironsteps_full"
+    }
+  }
+}
