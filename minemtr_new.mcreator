@@ -23,15 +23,33 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "ironstepsh"
+    },
+    {
+      "name": "Train",
+      "type": "tab",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "train"
+    },
+    {
+      "name": "Mtrmonny",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "mtrmonny"
     }
   ],
   "variable_elements": [],
   "sound_elements": [],
   "language_map": {
     "en_us": {
-      "advancements.monny.descr": "获得第一个绿宝石",
+      "advancements.monny.descr": "钱，钱，钱！！！",
       "block.minemtr_new.ironsteps": "Iron.steps",
-      "advancements.monny.title": "钱，钱，钱！！！"
+      "item.minemtr_new.mtrmonny": "Mtrmonny",
+      "itemGroup.minemtr_new.train": "Train",
+      "advancements.monny.title": "获得第一个绿宝石"
     }
   },
   "foldersRoot": {

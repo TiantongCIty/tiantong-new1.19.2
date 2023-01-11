@@ -15,6 +15,7 @@ package net.mcreator.minemtrnew;
 import org.apache.logging.log4j.Logger;
 import org.apache.logging.log4j.LogManager;
 
+import net.mcreator.minemtrnew.init.MinemtrNewModTabs;
 import net.mcreator.minemtrnew.init.MinemtrNewModItems;
 import net.mcreator.minemtrnew.init.MinemtrNewModBlocks;
 
@@ -27,6 +28,7 @@ public class MinemtrNewMod implements ModInitializer {
 	@Override
 	public void onInitialize() {
 		LOGGER.info("Initializing MinemtrNewMod");
+		MinemtrNewModTabs.load();
 
 		MinemtrNewModBlocks.load();
 		MinemtrNewModItems.load();

@@ -1,5 +1,7 @@
 {
-  "advancements.monny.descr": "获得第一个绿宝石",
+  "advancements.monny.descr": "钱，钱，钱！！！",
   "block.minemtr_new.ironsteps": "Iron.steps",
-  "advancements.monny.title": "钱，钱，钱！！！"
+  "item.minemtr_new.mtrmonny": "Mtrmonny",
+  "itemGroup.minemtr_new.train": "Train",
+  "advancements.monny.title": "获得第一个绿宝石"
 }
