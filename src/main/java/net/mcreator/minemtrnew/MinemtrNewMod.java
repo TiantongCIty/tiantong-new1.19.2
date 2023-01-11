@@ -17,6 +17,7 @@ import org.apache.logging.log4j.LogManager;
 
 import net.mcreator.minemtrnew.init.MinemtrNewModItems;
 import net.mcreator.minemtrnew.init.MinemtrNewModBlocks;
+import net.mcreator.minemtrnew.init.MinemtrNewModBiomes;
 
 import net.fabricmc.api.ModInitializer;
 
@@ -30,6 +31,8 @@ public class MinemtrNewMod implements ModInitializer {
 
 		MinemtrNewModBlocks.load();
 		MinemtrNewModItems.load();
+
+		MinemtrNewModBiomes.load();
 
 	}
 }

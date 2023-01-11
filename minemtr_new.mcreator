@@ -15,6 +15,22 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "ironsteps"
+    },
+    {
+      "name": "Ironstepsh",
+      "type": "recipe",
+      "sortid": 3,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironstepsh"
+    },
+    {
+      "name": "ChaoPingTan",
+      "type": "biome",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "chao_ping_tan"
     }
   ],
   "variable_elements": [],
